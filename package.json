@@ -1,0 +1,13 @@
+{
+  "name": "fitbit-to-endomondo",
+  "version": "0.0.1",
+  "description": "Sync fitbit stats and activities to endomondo",
+  "repository": "https://github.com/Zharktas/fitbit-to-endomondo",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "passport": "^0.3.2",
+    "passport-fitbit-oauth2": "^1.0.2"
+  }
+}
